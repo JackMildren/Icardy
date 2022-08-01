@@ -1,7 +1,6 @@
 {
   "resources": [
     {"id":{"name":"pLevels","path":"objects/pLevels/pLevels.yy",},"order":5,},
-    {"id":{"name":"attack","path":"scripts/attack/attack.yy",},"order":0,},
     {"id":{"name":"oAxeSelect","path":"objects/oAxeSelect/oAxeSelect.yy",},"order":7,},
     {"id":{"name":"pCharacter","path":"objects/pCharacter/pCharacter.yy",},"order":0,},
     {"id":{"name":"oSpearSelect","path":"objects/oSpearSelect/oSpearSelect.yy",},"order":8,},

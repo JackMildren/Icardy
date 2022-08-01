@@ -1,15 +1,16 @@
 {
+  "name": "pCharacter",
   "spriteId": {
     "name": "sGuy",
     "path": "sprites/sGuy/sGuy.yy",
   },
-  "solid": false,
-  "visible": true,
-  "managed": true,
   "spriteMaskId": null,
+  "visible": true,
+  "solid": false,
   "persistent": false,
-  "parentObjectId": null,
   "physicsObject": false,
+  "managed": true,
+  "parentObjectId": null,
   "physicsSensor": false,
   "physicsShape": 1,
   "physicsGroup": 1,
@@ -24,9 +25,12 @@
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":7,"eventType":7,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [
     {"varType":5,"value":"0","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"target","tags":[],"resourceType":"GMObjectProperty",},
+    {"varType":1,"value":"5","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"hitPoints","tags":[],"resourceType":"GMObjectProperty",},
+    {"varType":1,"value":"1","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"damage","tags":[],"resourceType":"GMObjectProperty",},
   ],
   "overriddenProperties": [],
   "parent": {
@@ -34,7 +38,6 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "pCharacter",
   "tags": [],
   "resourceType": "GMObject",
 }

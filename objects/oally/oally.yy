@@ -1,18 +1,19 @@
 {
+  "name": "oAlly",
   "spriteId": {
     "name": "sGuy",
     "path": "sprites/sGuy/sGuy.yy",
   },
-  "solid": false,
-  "visible": true,
-  "managed": true,
   "spriteMaskId": null,
+  "visible": true,
+  "solid": false,
   "persistent": false,
+  "physicsObject": false,
+  "managed": true,
   "parentObjectId": {
     "name": "pCharacter",
     "path": "objects/pCharacter/pCharacter.yy",
   },
-  "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
   "physicsGroup": 1,
@@ -36,7 +37,6 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oAlly",
   "tags": [],
   "resourceType": "GMObject",
 }
