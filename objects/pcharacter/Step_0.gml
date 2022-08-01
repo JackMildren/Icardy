@@ -1,15 +1,15 @@
 if (hsp =! 0) image_xscale = sign(hsp)
 
-if (global.roundstart) {
-if (hitPoints == 0)
-{
-	instance_destroy(self)
-	return
-}
+if (global.roundstart = true) {
+//if (hitPoints == 0)
+//{
+	//instance_destroy(self)
+	//return
+//}
 
 if (instance_exists(target))
 {
-	if (instance_exists(target))
+	if (distance_to_object(target) < 40)
 	{
 		spd = 0
 		
