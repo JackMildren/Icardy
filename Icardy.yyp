@@ -1,6 +1,10 @@
 {
   "resources": [
+    {"id":{"name":"attack","path":"scripts/attack/attack.yy",},"order":0,},
     {"id":{"name":"pCharacter","path":"objects/pCharacter/pCharacter.yy",},"order":0,},
+    {"id":{"name":"oAly","path":"objects/oAly/oAly.yy",},"order":1,},
+    {"id":{"name":"sGuy","path":"sprites/sGuy/sGuy.yy",},"order":0,},
+    {"id":{"name":"oEne","path":"objects/oEne/oEne.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -10,7 +14,7 @@
     {"name":"Linux","path":"options/linux/options_linux.yy",},
     {"name":"macOS","path":"options/mac/options_mac.yy",},
   ],
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "isEcma": false,
   "configs": {
     "name": "Default",
