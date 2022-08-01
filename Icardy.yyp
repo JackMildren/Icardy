@@ -1,12 +1,14 @@
 {
   "resources": [
-    {"id":{"name":"oCharacter","path":"objects/oCharacter/oCharacter.yy",},"order":0,},
+    {"id":{"name":"pCharacter","path":"objects/pCharacter/pCharacter.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"Windows","path":"options/windows/options_windows.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+    {"name":"Linux","path":"options/linux/options_linux.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
   ],
   "defaultScriptType": 0,
   "isEcma": false,
