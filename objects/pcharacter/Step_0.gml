@@ -1,16 +1,18 @@
 if (hsp =! 0) image_xscale = sign(hsp)
 
-//if (distance_to_object(target) < 60)
-//{
-	//spd = 0
-//}
+if (hitPoints == 0)
+{
+	instance_destroy(self)
+	return
+}
 
 if (instance_exists(target))
 {
 	if (distance_to_object(target) < attackrange)
 	{
 		spd = 0
-		script_execute(attack)
+		
+		self.sprite_index = sAttack
 	}
 	var dir=point_direction(x,y,target.x,target.y)
 
