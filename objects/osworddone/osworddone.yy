@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "sGuyIconDone",
+    "path": "sprites/sGuyIconDone/sGuyIconDone.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
@@ -20,20 +23,17 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":64,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
-  "properties": [
-    {"varType":1,"value":"0","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"swordunits","tags":[],"resourceType":"GMObjectProperty",},
-    {"varType":1,"value":"0","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"spearunits","tags":[],"resourceType":"GMObjectProperty",},
-    {"varType":1,"value":"0","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"axeunits","tags":[],"resourceType":"GMObjectProperty",},
-  ],
+  "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "CharacterSelect",
+    "path": "folders/Objects/CharacterSelect.yy",
   },
   "resourceVersion": "1.0",
-  "name": "pLevels",
+  "name": "oSwordDone",
   "tags": [],
   "resourceType": "GMObject",
 }

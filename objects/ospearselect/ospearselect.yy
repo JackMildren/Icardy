@@ -28,8 +28,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "CharacterSelect",
+    "path": "folders/Objects/CharacterSelect.yy",
   },
   "resourceVersion": "1.0",
   "name": "oSpearSelect",
