@@ -10,6 +10,7 @@
     {"id":{"name":"sGuy","path":"sprites/sGuy/sGuy.yy",},"order":0,},
     {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},"order":2,},
     {"id":{"name":"oSystem","path":"objects/oSystem/oSystem.yy",},"order":4,},
+    {"id":{"name":"sAttack","path":"sprites/sAttack/sAttack.yy",},"order":2,},
     {"id":{"name":"oSwordSelect","path":"objects/oSwordSelect/oSwordSelect.yy",},"order":6,},
     {"id":{"name":"oLevel1","path":"objects/oLevel1/oLevel1.yy",},"order":9,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},

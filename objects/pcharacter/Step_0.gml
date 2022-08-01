@@ -1,5 +1,6 @@
 if (hsp =! 0) image_xscale = sign(hsp)
 
+if (global.roundstart) {
 if (hitPoints == 0)
 {
 	instance_destroy(self)
