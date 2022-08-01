@@ -7,7 +7,7 @@ if (hsp =! 0) image_xscale = sign(hsp)
 
 if (instance_exists(target))
 {
-	if (distance_to_object(target) < atrng)
+	if (distance_to_object(target) < attackrange)
 	{
 		spd = 0
 		script_execute(attack)
