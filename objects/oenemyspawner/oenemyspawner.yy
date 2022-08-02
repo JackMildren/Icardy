@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sView",
-    "path": "sprites/sView/sView.yy",
+    "name": "sFlag",
+    "path": "sprites/sFlag/sFlag.yy",
   },
   "solid": false,
   "visible": true,

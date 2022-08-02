@@ -1,5 +1,4 @@
-spawn = random_range(1,3)
-if (global.roundstart == true)
+if (global.roundstart = true)
 {
 	if (spawn = 1) 
 	{
@@ -13,5 +12,5 @@ if (global.roundstart == true)
 	{
 		instance_create_layer(x,y,"Instances",oEnemyAxe)
 	}
-	//instance_destroy()
+	instance_destroy()
 }

@@ -14,7 +14,7 @@ if (instance_exists(target))
 	{
 		spd = 0
 		
-		self.sprite_index = sAttack
+		self.sprite_index = attacksprite
 	}
 	var dir=point_direction(x,y,target.x,target.y)
 

@@ -8,6 +8,7 @@
     {"id":{"name":"sSpearIconDone","path":"sprites/sSpearIconDone/sSpearIconDone.yy",},"order":12,},
     {"id":{"name":"oAxeSelect","path":"objects/oAxeSelect/oAxeSelect.yy",},"order":0,},
     {"id":{"name":"pCharacter","path":"objects/pCharacter/pCharacter.yy",},"order":0,},
+    {"id":{"name":"sFlag","path":"sprites/sFlag/sFlag.yy",},"order":19,},
     {"id":{"name":"sSpearIcon","path":"sprites/sSpearIcon/sSpearIcon.yy",},"order":10,},
     {"id":{"name":"sSpawnArea","path":"sprites/sSpawnArea/sSpawnArea.yy",},"order":6,},
     {"id":{"name":"oView","path":"objects/oView/oView.yy",},"order":6,},
