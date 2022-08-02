@@ -1,5 +1,7 @@
 if (hsp =! 0) image_xscale = sign(hsp)
 
+spd = defaultSpeed
+
 if (global.roundstart = false) 
 {
 	return	

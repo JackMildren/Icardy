@@ -25,6 +25,7 @@
     {"id":{"name":"oAxeDrop","path":"objects/oAxeDrop/oAxeDrop.yy",},"order":9,},
     {"id":{"name":"oAllySword","path":"objects/oAllySword/oAllySword.yy",},"order":3,},
     {"id":{"name":"oEnemySpawner","path":"objects/oEnemySpawner/oEnemySpawner.yy",},"order":24,},
+    {"id":{"name":"print","path":"scripts/print/print.yy",},"order":1,},
     {"id":{"name":"oSpawnGrid","path":"objects/oSpawnGrid/oSpawnGrid.yy",},"order":8,},
     {"id":{"name":"pDrop","path":"objects/pDrop/pDrop.yy",},"order":3,},
     {"id":{"name":"oEnemyAxe","path":"objects/oEnemyAxe/oEnemyAxe.yy",},"order":1,},
