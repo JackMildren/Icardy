@@ -9,8 +9,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "pCharacter",
-    "path": "objects/pCharacter/pCharacter.yy",
+    "name": "oEnemy",
+    "path": "objects/oEnemy/oEnemy.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -26,15 +26,13 @@
   "physicsShapePoints": [],
   "eventList": [],
   "properties": [],
-  "overriddenProperties": [
-    {"propertyId":{"name":"target","path":"objects/pCharacter/pCharacter.yy",},"objectId":{"name":"pCharacter","path":"objects/pCharacter/pCharacter.yy",},"value":"oAlly","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-  ],
+  "overriddenProperties": [],
   "parent": {
     "name": "Enemy",
     "path": "folders/Objects/Enemy.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oEnemy",
+  "name": "oEnemySword",
   "tags": [],
   "resourceType": "GMObject",
 }

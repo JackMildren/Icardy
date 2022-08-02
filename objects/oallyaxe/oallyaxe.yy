@@ -31,8 +31,8 @@
     {"propertyId":{"name":"attacksprite","path":"objects/pCharacter/pCharacter.yy",},"objectId":{"name":"pCharacter","path":"objects/pCharacter/pCharacter.yy",},"value":"sAxeAttack","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Ally",
+    "path": "folders/Objects/Ally.yy",
   },
   "resourceVersion": "1.0",
   "name": "oAllyAxe",
