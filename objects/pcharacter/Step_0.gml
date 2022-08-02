@@ -9,7 +9,7 @@ if (global.roundstart = false)
 
 if (hitPoints == 0)
 {
-	instance_destroy(self)
+	instance_destroy()
 	return
 }
 
