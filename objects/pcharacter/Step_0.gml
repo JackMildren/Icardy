@@ -11,6 +11,8 @@ if (hitPoints == 0)
 	return
 }
 
+target = findTarget(self)
+
 if (!instance_exists(target))
 {
 	return

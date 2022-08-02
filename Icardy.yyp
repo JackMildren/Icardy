@@ -15,6 +15,7 @@
     {"id":{"name":"oSpearSelect","path":"objects/oSpearSelect/oSpearSelect.yy",},"order":1,},
     {"id":{"name":"oEnemySpear","path":"objects/oEnemySpear/oEnemySpear.yy",},"order":2,},
     {"id":{"name":"sAxe","path":"sprites/sAxe/sAxe.yy",},"order":13,},
+    {"id":{"name":"findTarget","path":"scripts/findTarget/findTarget.yy",},"order":0,},
     {"id":{"name":"sAxeDrop","path":"sprites/sAxeDrop/sAxeDrop.yy",},"order":14,},
     {"id":{"name":"sView","path":"sprites/sView/sView.yy",},"order":8,},
     {"id":{"name":"pCharacterSelect","path":"objects/pCharacterSelect/pCharacterSelect.yy",},"order":5,},
