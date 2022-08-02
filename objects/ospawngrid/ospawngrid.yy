@@ -1,17 +1,14 @@
 {
   "spriteId": {
-    "name": "sSwordDrop",
-    "path": "sprites/sSwordDrop/sSwordDrop.yy",
+    "name": "sSpawnGrid",
+    "path": "sprites/sSpawnGrid/sSpawnGrid.yy",
   },
   "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "pDrop",
-    "path": "objects/pDrop/pDrop.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -24,15 +21,18 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "CharacterSelect",
-    "path": "folders/Objects/CharacterSelect.yy",
+    "name": "Misc",
+    "path": "folders/Objects/Misc.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oSwordDrop",
+  "name": "oSpawnGrid",
   "tags": [],
   "resourceType": "GMObject",
 }

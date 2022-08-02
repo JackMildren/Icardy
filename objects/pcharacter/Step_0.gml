@@ -27,5 +27,23 @@ var dir = point_direction(x,y,target.x,target.y)
 hsp=lengthdir_x(spd,dir)
 vsp=lengthdir_y(spd,dir)
 
+
+if (place_meeting(x+hsp, y, pCharacter))
+{
+	while (!place_meeting(x+sign(hsp), y, pCharacter))
+	{
+		x += sign(hsp);
+	}
+		hsp = 0;
+}
 x += hsp
+
+if (place_meeting(x, y+vsp, pCharacter))
+{
+	while (!place_meeting(x, y+sign(vsp), pCharacter))
+	{
+		y += sign(vsp);
+	}
+	vsp = 0;
+}
 y += vsp
