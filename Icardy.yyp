@@ -9,6 +9,7 @@
     {"id":{"name":"oAxeSelect","path":"objects/oAxeSelect/oAxeSelect.yy",},"order":0,},
     {"id":{"name":"pCharacter","path":"objects/pCharacter/pCharacter.yy",},"order":0,},
     {"id":{"name":"sFlag","path":"sprites/sFlag/sFlag.yy",},"order":19,},
+    {"id":{"name":"tGrassland","path":"tilesets/tGrassland/tGrassland.yy",},"order":0,},
     {"id":{"name":"sSpearIcon","path":"sprites/sSpearIcon/sSpearIcon.yy",},"order":10,},
     {"id":{"name":"sSpawnArea","path":"sprites/sSpawnArea/sSpawnArea.yy",},"order":6,},
     {"id":{"name":"oView","path":"objects/oView/oView.yy",},"order":6,},
@@ -29,6 +30,7 @@
     {"id":{"name":"pDrop","path":"objects/pDrop/pDrop.yy",},"order":3,},
     {"id":{"name":"oEnemyAxe","path":"objects/oEnemyAxe/oEnemyAxe.yy",},"order":1,},
     {"id":{"name":"oAlly","path":"objects/oAlly/oAlly.yy",},"order":0,},
+    {"id":{"name":"sGrassTiles","path":"sprites/sGrassTiles/sGrassTiles.yy",},"order":0,},
     {"id":{"name":"oAxeDone","path":"objects/oAxeDone/oAxeDone.yy",},"order":8,},
     {"id":{"name":"sAxeIconDone","path":"sprites/sAxeIconDone/sAxeIconDone.yy",},"order":16,},
     {"id":{"name":"sSpear","path":"sprites/sSpear/sSpear.yy",},"order":9,},
@@ -89,6 +91,7 @@
     {"folderPath":"folders/Objects/CharacterSelect.yy","order":15,"resourceVersion":"1.0","name":"CharacterSelect","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Ally.yy","order":22,"resourceVersion":"1.0","name":"Ally","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Enemy.yy","order":23,"resourceVersion":"1.0","name":"Enemy","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Tiles.yy","order":21,"resourceVersion":"1.0","name":"Tiles","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
