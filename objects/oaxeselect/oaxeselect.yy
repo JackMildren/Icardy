@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sGuyIcon",
-    "path": "sprites/sGuyIcon/sGuyIcon.yy",
+    "name": "sAxeIcon",
+    "path": "sprites/sAxeIcon/sAxeIcon.yy",
   },
   "solid": false,
   "visible": true,
@@ -26,7 +26,10 @@
   "physicsShapePoints": [],
   "eventList": [],
   "properties": [],
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"propertyId":{"name":"dropunit","path":"objects/pCharacterSelect/pCharacterSelect.yy",},"objectId":{"name":"pCharacterSelect","path":"objects/pCharacterSelect/pCharacterSelect.yy",},"value":"oAxeDrop","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"donetarget","path":"objects/pCharacterSelect/pCharacterSelect.yy",},"objectId":{"name":"pCharacterSelect","path":"objects/pCharacterSelect/pCharacterSelect.yy",},"value":"oAxeDone","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+  ],
   "parent": {
     "name": "CharacterSelect",
     "path": "folders/Objects/CharacterSelect.yy",

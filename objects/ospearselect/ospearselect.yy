@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sGuyIcon",
-    "path": "sprites/sGuyIcon/sGuyIcon.yy",
+    "name": "sSpearIcon",
+    "path": "sprites/sSpearIcon/sSpearIcon.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,9 +24,14 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":1,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"propertyId":{"name":"dropunit","path":"objects/pCharacterSelect/pCharacterSelect.yy",},"objectId":{"name":"pCharacterSelect","path":"objects/pCharacterSelect/pCharacterSelect.yy",},"value":"oSpearDrop","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"donetarget","path":"objects/pCharacterSelect/pCharacterSelect.yy",},"objectId":{"name":"pCharacterSelect","path":"objects/pCharacterSelect/pCharacterSelect.yy",},"value":"oSpearDone","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+  ],
   "parent": {
     "name": "CharacterSelect",
     "path": "folders/Objects/CharacterSelect.yy",

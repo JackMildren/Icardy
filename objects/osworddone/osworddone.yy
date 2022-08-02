@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sGuyIconDone",
-    "path": "sprites/sGuyIconDone/sGuyIconDone.yy",
+    "name": "sSwordIconDone",
+    "path": "sprites/sSwordIconDone/sSwordIconDone.yy",
   },
   "solid": false,
   "visible": true,

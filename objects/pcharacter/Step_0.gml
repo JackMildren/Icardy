@@ -10,11 +10,11 @@ if (hitPoints == 0)
 
 if (instance_exists(target))
 {
-	if (distance_to_object(target) < 40)
+	if (distance_to_object(target) < attackrange)
 	{
 		spd = 0
 		
-		self.sprite_index = sAttack
+		self.sprite_index = attacksprite
 	}
 	var dir=point_direction(x,y,target.x,target.y)
 

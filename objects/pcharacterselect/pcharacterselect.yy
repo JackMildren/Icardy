@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sGuyIcon",
-    "path": "sprites/sGuyIcon/sGuyIcon.yy",
+    "name": "sSwordIcon",
+    "path": "sprites/sSwordIcon/sSwordIcon.yy",
   },
   "solid": false,
   "visible": true,
@@ -27,7 +27,10 @@
     {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":1,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
-  "properties": [],
+  "properties": [
+    {"varType":5,"value":"oSwordDrop","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"dropunit","tags":[],"resourceType":"GMObjectProperty",},
+    {"varType":5,"value":"oSwordDone","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"donetarget","tags":[],"resourceType":"GMObjectProperty",},
+  ],
   "overriddenProperties": [],
   "parent": {
     "name": "CharacterSelect",

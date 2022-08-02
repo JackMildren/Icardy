@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sGuyDrop",
-    "path": "sprites/sGuyDrop/sGuyDrop.yy",
+    "name": "sSwordDrop",
+    "path": "sprites/sSwordDrop/sSwordDrop.yy",
   },
   "solid": false,
   "visible": true,
