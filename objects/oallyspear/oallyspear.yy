@@ -29,6 +29,8 @@
   "overriddenProperties": [
     {"propertyId":{"name":"idlesprite","path":"objects/pCharacter/pCharacter.yy",},"objectId":{"name":"pCharacter","path":"objects/pCharacter/pCharacter.yy",},"value":"sSpear","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"attacksprite","path":"objects/pCharacter/pCharacter.yy",},"objectId":{"name":"pCharacter","path":"objects/pCharacter/pCharacter.yy",},"value":"sSpearAttack","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"walksprite","path":"objects/pCharacter/pCharacter.yy",},"objectId":{"name":"pCharacter","path":"objects/pCharacter/pCharacter.yy",},"value":"sSpearWalk","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"attackrange","path":"objects/pCharacter/pCharacter.yy",},"objectId":{"name":"pCharacter","path":"objects/pCharacter/pCharacter.yy",},"value":"100","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "Ally",

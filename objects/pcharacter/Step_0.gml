@@ -15,10 +15,10 @@ if (hitPoints == 0)
 
 target = findTarget(self)
 
-if (!instance_exists(target))
+if (instance_exists(target))
 {
-	return
-}
+	sprite_index = walksprite
+}else {return}
 
 if (distance_to_object(target) < attackrange)
 {
@@ -27,6 +27,7 @@ if (distance_to_object(target) < attackrange)
 }
 
 var dir = point_direction(x,y,target.x,target.y)
+
 
 hsp=lengthdir_x(spd,dir)
 vsp=lengthdir_y(spd,dir)
@@ -38,7 +39,8 @@ if (place_meeting(x+hsp, y, pCharacter))
 	{
 		x += sign(hsp);
 	}
-		hsp = 0;
+	hsp = 0;
+	sprite_index = idlesprite	
 }
 x += hsp
 
@@ -49,5 +51,6 @@ if (place_meeting(x, y+vsp, pCharacter))
 		y += sign(vsp);
 	}
 	vsp = 0;
+	sprite_index = idlesprite	
 }
 y += vsp

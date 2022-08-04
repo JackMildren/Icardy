@@ -26,7 +26,9 @@
   "physicsShapePoints": [],
   "eventList": [],
   "properties": [],
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"propertyId":{"name":"idlesprite","path":"objects/pCharacter/pCharacter.yy",},"objectId":{"name":"pCharacter","path":"objects/pCharacter/pCharacter.yy",},"value":"sSword","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+  ],
   "parent": {
     "name": "Ally",
     "path": "folders/Objects/Ally.yy",

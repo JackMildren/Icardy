@@ -29,6 +29,7 @@
   "overriddenProperties": [
     {"propertyId":{"name":"idlesprite","path":"objects/pCharacter/pCharacter.yy",},"objectId":{"name":"pCharacter","path":"objects/pCharacter/pCharacter.yy",},"value":"sAxe","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"attacksprite","path":"objects/pCharacter/pCharacter.yy",},"objectId":{"name":"pCharacter","path":"objects/pCharacter/pCharacter.yy",},"value":"sAxeAttack","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"walksprite","path":"objects/pCharacter/pCharacter.yy",},"objectId":{"name":"pCharacter","path":"objects/pCharacter/pCharacter.yy",},"value":"sAxeWalk","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "Enemy",
