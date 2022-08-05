@@ -58,7 +58,6 @@
     {"id":{"name":"sNonozone","path":"sprites/sNonozone/sNonozone.yy",},"order":1,},
     {"id":{"name":"sSword","path":"sprites/sSword/sSword.yy",},"order":7,},
     {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},"order":0,},
-    {"id":{"name":"oSystem","path":"objects/oSystem/oSystem.yy",},"order":1,},
     {"id":{"name":"oSpearDone","path":"objects/oSpearDone/oSpearDone.yy",},"order":7,},
     {"id":{"name":"sAxeIconDone","path":"sprites/sAxeIconDone/sAxeIconDone.yy",},"order":25,},
     {"id":{"name":"sSwordAttack","path":"sprites/sSwordAttack/sSwordAttack.yy",},"order":8,},
